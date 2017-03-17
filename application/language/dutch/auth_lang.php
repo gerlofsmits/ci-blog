@@ -57,6 +57,7 @@ $lang['create_user_heading']                           = 'Gebruiker aanmaken';
 $lang['create_user_subheading']                        = 'Gelieve hieronder de gebruikersinformatie in te vullen.';
 $lang['create_user_fname_label']                       = 'Voornaam:';
 $lang['create_user_lname_label']                       = 'Achternaam:';
+$lang['create_user_username_label']                    = 'Gebruikersnaam:';
 $lang['create_user_company_label']                     = 'Bedrijfsnaam:';
 $lang['create_user_email_label']                       = 'Email:';
 $lang['create_user_phone_label']                       = 'Telefoon:';
